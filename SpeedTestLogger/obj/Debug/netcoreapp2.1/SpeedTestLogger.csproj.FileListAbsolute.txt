@@ -1,0 +1,11 @@
+C:\Users\mtv\Projects\az-speedtest-logger\SpeedTestLogger\bin\Debug\netcoreapp2.1\SpeedTestLogger.deps.json
+C:\Users\mtv\Projects\az-speedtest-logger\SpeedTestLogger\bin\Debug\netcoreapp2.1\SpeedTestLogger.runtimeconfig.json
+C:\Users\mtv\Projects\az-speedtest-logger\SpeedTestLogger\bin\Debug\netcoreapp2.1\SpeedTestLogger.runtimeconfig.dev.json
+C:\Users\mtv\Projects\az-speedtest-logger\SpeedTestLogger\bin\Debug\netcoreapp2.1\SpeedTestLogger.dll
+C:\Users\mtv\Projects\az-speedtest-logger\SpeedTestLogger\bin\Debug\netcoreapp2.1\SpeedTestLogger.pdb
+C:\Users\mtv\Projects\az-speedtest-logger\SpeedTestLogger\obj\Debug\netcoreapp2.1\SpeedTestLogger.csprojAssemblyReference.cache
+C:\Users\mtv\Projects\az-speedtest-logger\SpeedTestLogger\obj\Debug\netcoreapp2.1\SpeedTestLogger.csproj.CoreCompileInputs.cache
+C:\Users\mtv\Projects\az-speedtest-logger\SpeedTestLogger\obj\Debug\netcoreapp2.1\SpeedTestLogger.AssemblyInfoInputs.cache
+C:\Users\mtv\Projects\az-speedtest-logger\SpeedTestLogger\obj\Debug\netcoreapp2.1\SpeedTestLogger.AssemblyInfo.cs
+C:\Users\mtv\Projects\az-speedtest-logger\SpeedTestLogger\obj\Debug\netcoreapp2.1\SpeedTestLogger.dll
+C:\Users\mtv\Projects\az-speedtest-logger\SpeedTestLogger\obj\Debug\netcoreapp2.1\SpeedTestLogger.pdb
